@@ -1,7 +1,7 @@
-package less1.practice.impl;
+package DZ.impl;
 
 public enum EPackage {
-    PLASTIC("пластик"), GLASS("стекло"), POLYETILEN("Полиэтилен");
+    PLASTIC("пластик"), GLASS("стекло"), POLYETHYLENE("Полиэтилен");
 
     private final String material;
 

@@ -1,4 +1,4 @@
-package less1.practice;
+package DZ;
 
 import java.time.LocalDate;
 

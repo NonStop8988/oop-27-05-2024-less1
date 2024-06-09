@@ -1,6 +1,6 @@
-package less1.practice.impl;
+package DZ.impl;
 
-import less1.practice.Product;
+import DZ.Product;
 
 import java.time.LocalDate;
 
